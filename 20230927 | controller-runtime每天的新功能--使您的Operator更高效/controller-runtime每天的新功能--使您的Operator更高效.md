@@ -1,0 +1,6 @@
+controller-runtime每天的新功能--使您的Operator更高效 | What's New on Controller-Runtime of the Day -- Make Your Operator More Efficient - Siyu Wang, Alibaba Cloud
+
+https://kccncosschn2023.sched.com/event/1PTKQ/controller-runtimezha-xia-zha-operatorpan-whats-new-on-controller-runtime-of-the-day-make-your-operator-more-efficient-siyu-wang-alibaba-cloud
+
+Controller-runtime是定制K8s Operators的核心框架，无论您使用哪个工具，Kubebuilder还是Operator-sdk。 但我们发现太多开发人员仍在使用那些过时的controller-runtime版本。实际上，我们有最新的版本v0.15，而新的v0.16即将推出，其中包含各种新功能，帮助用户更轻松高效地开发Operators。 在本次演讲中，我将介绍controller-runtime的新版本和功能，以及我们正在设计和审查的提案。希望这能让您更了解新的controller-runtime以及如何使您的Operators更好。 
+Controller-runtime is the core framework for customize K8s Operators, no matter which tool you use, Kubebuilder or Operator-sdk. But we found that too many developers still use those obsolete versions of controller-runtime. In fact, we have the latest version v0.15 and the newer v0.16 is coming soon, which includes various new features to help users develop Operators more easily and efficiently. In this talk, I will introduce the new versions and features of controller-runtime, also those proposals we are still design and being reviewed. Hoping it will give you more acknowledge of the new controller-runtime and how could it make your Operators better.

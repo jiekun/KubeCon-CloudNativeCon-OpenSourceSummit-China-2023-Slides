@@ -1,0 +1,6 @@
+⚡闪电演讲: 运行大规模Harbor服务的最佳实践 | Lightning Talk: Best Practice to Run Large Scale Harbor Service - Daojun Zhang, VMware
+
+https://kccncosschn2023.sched.com/event/1PTHB/clcong-shu-xi-ai-chan-mao-harbor-zha-huan-lightning-talk-best-practice-to-run-large-scale-harbor-service-daojun-zhang-vmware
+
+Harbor注册表广泛用于云原生工件。这个最佳实践讨论了在大规模环境下构建和运行稳定的Harbor服务的各个方面。它涵盖了配置带有后端存储的CDN、常见CDN问题、设置灾难恢复环境、处理大量拉取请求、监控必要的指标（除了现有的导出指标）、识别性能瓶颈、诊断性能问题以及在安装和运行Harbor时避免常见的安全陷阱。本讲座的演讲者在企业级Harbor实例中处理这些挑战方面拥有丰富的经验，对Harbor运维工程师非常有价值。 
+The Harbor registry is widely used for cloud-native artifacts. This best practice discusses various aspects of building and running a stable Harbor service at a large scale. It covers topics such as configuring CDN with backend storage, common CDN issues, setting up a disaster recovery environment, handling a large number of pull requests, essential metrics to monitor (in addition to the existing exported metrics), identifying performance bottlenecks, diagnosing performance issues, and avoiding common security traps when installing and running Harbor. The speakers in this lecture have extensive experience dealing with these challenges in enterprise-level Harbor instances, making it valuable for Harbor operation engineers.

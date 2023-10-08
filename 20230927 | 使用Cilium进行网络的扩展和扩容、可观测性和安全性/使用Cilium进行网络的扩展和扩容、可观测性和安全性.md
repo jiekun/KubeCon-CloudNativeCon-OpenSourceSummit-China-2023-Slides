@@ -1,0 +1,6 @@
+使用Cilium进行网络的扩展和扩容、可观测性和安全性 | Scaling up and Scaling Out Networking, Observability, and Security with Cilium - Bill Mulligan, Isovalent & Jaff Cheng, Trip.com
+
+https://kccncosschn2023.sched.com/event/1PTJe/zhi-ciliummao-chan-jie-zhang-zha-re-qi-re-scaling-up-and-scaling-out-networking-observability-and-security-with-cilium-bill-mulligan-isovalent-jaff-cheng-tripcom
+
+欢迎来到Cilium！在本次会议中，您将了解Cilium作为一个项目的进展情况以及它在生产环境中的部署情况。您将听到该项目如何从一个简单的网络CNI发展到覆盖可观测性和安全性的内容。我们将深入探讨最新的发展，如Tetragon和Cilium服务网格，以及该项目的下一步发展方向。Trip.com还将讨论他们如何在几个月内将Cilium托管集群的节点数量从数百个增加到3千个。最后，观众将学习如何参与该项目。加入我们吧！ 
+Welcome to Cilium! In this session you'll get an update on how Cilium has been progressing as a project and how it is deployed in production. You'll hear how the project grew from a simple networking CNI to cover observability and security too. We will dive into the latest developments, like Tetragon and Cilium Service Mesh, and where the project is heading next. Trip.com will also discuss how they grew their Cilium managed clusters from hundreds of nodes to 3 thousand nodes in a matter of months. Finally, the audience will learn how to get involved in the project. Join us!

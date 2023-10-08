@@ -1,0 +1,6 @@
+Kubernetes 文档和本地化 | Kubernetes Documentation and Localization - Michael Yao, DaoCloud & Xin Li, Qihoo 360
+
+https://kccncosschn2023.sched.com/event/1PTFs/kubernetes-repico-kubernetes-documentation-and-localization-michael-yao-daocloud-xin-li-qihoo-360
+
+本次会议将概述创建、构建、本地化和维护Kubernetes网站的过程。它为新贡献者提供了有关入门和熟悉文档样式指南的有益指导。与会者还将了解GitOps工作流程以及如何与其他对云原生技术感兴趣的人建立联系。通过遵循这些提示，您可以无缝地融入Kubernetes社区并为这个重要的开源项目做出贡献。 本次会议涵盖以下主题： - k8s网站的构建方式 - k8s网站包含的内容和可用的语言 - 如何为k8s文档和本地化做出贡献 - k8s网站的贡献者及其贡献分析 
+This session offers an overview of the process for creating, building, localizing, and maintaining the Kubernetes website. It provides helpful guidance for new contributors on getting started and becoming familiar with the documentation style guide. Attendees will also learn about the GitOps workflow and how to connect with others who share an interest in cloud-native technologies. By following these tips, you can seamlessly integrate into the Kubernetes community and make contributions to this important open-source project. The session covers the following topics: - How the k8s website is built - What content is included in the k8s website and which languages are available - How to contribute to k8s docs and localization - Contributors to k8s website and analysis of their contributions

@@ -1,0 +1,6 @@
+KubeVirt v1.0：从终端用户的角度来看意味着什么 | KubeVirt v1.0: What It Means from an End-User Perspective - Howard Zhang, ARM
+
+https://kccncosschn2023.sched.com/event/1PTKr/kubevirt-v10daepying-guo-zhi-zha-liu-tao-biqu-kubevirt-v10-what-it-means-from-an-end-user-perspective-howard-zhang-arm
+
+KubeVirt在今年7月发布了我们期待已久的v1.0版本 - 好耶！但这对于项目和ARM等终端用户来说真正意味着什么呢？我们接下来要做什么呢？ 来参加这个会议，了解项目的最新背景，它的功能，如何使用以及关于最近的v1.0版本的所有你需要知道的信息。我们还将深入探讨ARM与该项目的合作，我们是如何与社区合作开始的，以及这个版本对我们意味着什么。 无论你已经参与了该项目，还是今天才听说它，你都将了解到KubeVirt的现状，项目的发展方向，以及如何成为帮助我们实现目标的一部分。 
+KubeVirt released our long-awaited v1.0 in July this year - hooray! But what does that really mean, not only for the project but for an end user such as ARM? And where do we go from here? Come to this session for an updated background on the project, what it does, how it is used, and all you need to know about the recent v1.0 release. We will also delve into ARM's involvement with the project, how we started with the community, and what this release means to us. Whether you're already involved with the project, or have never heard of it before today, you will walk away with an understanding of where KubeVirt is today, where the project is heading, and how you can be a part of helping us get there.

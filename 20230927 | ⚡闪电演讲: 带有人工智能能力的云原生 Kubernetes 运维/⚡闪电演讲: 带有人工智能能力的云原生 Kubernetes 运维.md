@@ -1,0 +1,6 @@
+⚡闪电演讲: 带有人工智能能力的云原生 Kubernetes 运维 | Lightning Talk: Sailing Kubernetes Operation with AI Power - Peter Pan, Daocloud
+
+https://kccncosschn2023.sched.com/event/1PTFI/clcong-shu-xi-xia-xia-zha-chang-kubernetes-ai-gu-lightning-talk-sailing-kubernetes-operation-with-ai-power-peter-pan-daocloud
+
+AIGC 与云原生的结合，也带来了很多有益的创新发展。在这个议题中，将介绍通过如何借力AI大模型，提高 Kubernetes SRE 管理效率的解决方案.  k8s的运维人员日常的三个工作：资源创建、日常巡检、故障排查。都可以通过LLM进行自动辅助，通过自然语言转化为 Kubernetes 操作和复合脚本，自动下发和执行；以及利用k8sgpt开源项目，排查问题并发送给 公网LLM或者本地部署的大模型，进行根因分析和解决思路； 并基于autoGPT 的agent模式，通过多次迭代的 Kubernetes 操作来解决或诊断复杂问题” 
+To leverage AIGC power to increase Kubernetes SRE management efficiency: - 1) Introduce and demo of open source project `k8sgpt`: Run health check for workloads with `k8sgpt`, and get remediation suggestion from LLM like OpenAI or on-oremise LLM - (a) The theory of codified knowledge - (b) Deep dive about the LLM explanation and sensitive data protection. - 2) Translate the k8s operations from human language interaction, to lower the SRE barrier. let chatGPT be the "translator": with simply prompt to turn operation into kubectl bash commands like one of the example project `kubectl-ai` . (3) Solve or diagnostic complex problems with `autoGPT`-like concepts with multiple iterations of k8s operations.

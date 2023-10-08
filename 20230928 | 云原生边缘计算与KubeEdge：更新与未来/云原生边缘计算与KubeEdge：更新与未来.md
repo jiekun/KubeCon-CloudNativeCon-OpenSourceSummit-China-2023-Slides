@@ -1,0 +1,6 @@
+云原生边缘计算与KubeEdge：更新与未来 | Cloud Native Edge Computing with KubeEdge: Updates and Future - Fei Xu, Huawei Cloud & Hongbing Zhang, Shanghai DaoCloud Network Technology
+
+https://kccncosschn2023.sched.com/event/1PTKc/chang-yi-sui-dou-zhao-kubeedgedaep-cloud-native-edge-computing-with-kubeedge-updates-and-future-fei-xu-huawei-cloud-hongbing-zhang-shanghai-daocloud-network-technology
+
+KubeEdge是一个开源的边缘计算框架，将Kubernetes的能力从云端扩展到边缘。在本次会议中，我们将分享以下内容：1. KubeEdge的最新开发更新；2. 来自sig-robotics、sig-node、sig-scalability和sig-networking、sig-security等的新闻；3. 最新的用户采用情况，包括：云原生区块链、云原生物流、云原生SDV（软件定义车辆）、云原生海上油田等。最后，将进行开放式问答环节，与参会者互动并回答问题。 
+KubeEdge is an open source edge computing framework that extends the power of Kubernetes from the cloud to the edge. In this session, we will share: 1. The latest development updates from KubeEdge; 2. News from sig-robotics, sig-node, sig-scalability and sig-networking, sig-security, etc.; 3. Latest new user adoptions, including: cloud native Blockchain, cloud native Logistics, cloud native SDV (software defined vehicle), cloud native offshore oil field, etc. In the end, there will be an open Q&A for attendees to ask questions and give feedback.

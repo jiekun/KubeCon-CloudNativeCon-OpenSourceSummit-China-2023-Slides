@@ -1,0 +1,6 @@
+SIG集群生命周期：Kubespray的新功能 | SIG Cluster Lifecycle: What's New in Kubespray - Kay Yan, DaoCloud
+
+https://kccncosschn2023.sched.com/event/1PTJt/sigzhong-shi-chang-potodaepkubesprayzha-xia-sig-cluster-lifecycle-whats-new-in-kubespray-kay-yan-daocloud
+
+Kubespray 是最流行的 Kubernetes 部署方案之一，主要是得益于一个非常活跃的全球开发者社区（很多在亚洲地区）。 在本次会议的前半部分，我们将演示和讨论最新的功能，如使用kube-vip 实现高可用性、用于离线环境的管理离线文件脚本、快速镜像镜像、新的操作系统（Rocky、Kylin、OpenEuler Linux、OpenEuler Linux...）支持、多架构集群、对Ansible集合的支持、集群加固、 Operator 和 GitOps。我们还将分享来自Kubespray的有用提示和最佳实践。 在后半部分，我们希望分享一些关于给予社区发声的深入探讨，并开展关于如何推动项目前进的讨论。然后，我们将留出大量时间回答问题。 
+Kubespray is one of the most versatile Kubernetes-cluster manager, and it benefits an extremely active worldwide community, especially in Asia. In the first half of the session we will demo and discuss the most recent features such as HA with kube-vip, Manage offline files script for Air-Gap environment, fast image mirror, New OS(Rocky, Kylin, OpenEuler Linux, OpenEuler Linux...) Support, multi-arch cluster, support for Ansible collections, Cluster Hardening, work with the operator and GitOps. And we'll also share useful tips and best practices from Kubespray. In the second half part, we would like to share some deep-dive about giving voice to the community and open a discussion about how to keep moving the project forward. And then allow a large amount of time for questions.

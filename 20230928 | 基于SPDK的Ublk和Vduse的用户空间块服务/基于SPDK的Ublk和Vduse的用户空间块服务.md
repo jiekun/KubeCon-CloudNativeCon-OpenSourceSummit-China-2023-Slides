@@ -1,0 +1,6 @@
+基于SPDK的Ublk和Vduse的用户空间块服务 | Userspace Block Services Based on Ublk and Vduse in SPDK - Liu Xiaodong & Changpeng Liu, Intel
+
+https://kccncosschn2023.sched.com/event/1PTFd/27dspdkzha-ublkrevdusezha-zhi-sin-hui-watt-userspace-block-services-based-on-ublk-and-vduse-in-spdk-liu-xiaodong-changpeng-liu-intel
+
+Ublk和Vduse是新兴的Linux内核框架，允许用户空间驱动程序高效地向内核公开块设备。SPDK可以利用这些框架提供具有最小开销和高性能的存储服务，以便本地提供容器工作负载。 本次会议将介绍如何启用SPDK以基于vduse和ublk实现用户空间块服务。将解释ublk和vduse概念上的相似之处和差异。还将演示这些方法与传统方法相比的优势和性能。最后，我们将分享使用SPDK工具和库开发和评估这些块服务的经验和挑战。 
+Ublk and Vduse are emerging Linux kernel frameworks that allow userspace drivers to expose block devices to the kernel efficiently. SPDK can use these frameworks to provide storage services with minimal overhead and high performance to serve container workload locally. This session will go over how to enable SPDK to implement userspace block services based on vduse and ublk. The similarities and differences in the concepts of ublk and vduse will be explained. It will also demonstrate the benefits and performance of these approaches compared to traditional methods. Finally, we will share our experience and challenges of developing and evaluating these block services using SPDK tools and libraries.

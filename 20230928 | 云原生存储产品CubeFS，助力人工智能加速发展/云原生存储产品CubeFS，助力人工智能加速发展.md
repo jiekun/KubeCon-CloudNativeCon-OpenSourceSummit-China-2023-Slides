@@ -1,0 +1,6 @@
+云原生存储产品CubeFS，助力人工智能加速发展 | Cloud Native Storage CubeFS, Empowering AI Acceleration - Hu Yao, OPPO
+
+https://kccncosschn2023.sched.com/event/1Pv1A/chang-ticubefsdaels-xia-fu-cloud-native-storage-cubefs-empowering-ai-acceleration-hu-yao-oppo
+
+CubeFS是一款新一代的云原生存储产品，由Cloud Native Computing Foundation（CNCF）托管，目前处于“孵化”阶段。它是中国开发者开发的第一个具备完整文件和对象存储能力的开源产品。在本次演讲中，我们将首先讨论存储的机遇和挑战，并以AIGC作为背景进行探讨。接下来，我们将介绍CubeFS的架构和开发，展示它作为智能数据湖基础在人工智能场景下的特定实践，以加速AI处理。最后，我们将一起探讨和讨论CubeFS的未来计划。 
+CubeFS is a new generation cloud-native storage product, hosted by Cloud Native Computing Foundation (CNCF) and currently in the "incubation" phase. It is the first open-source product with complete file and object storage capabilities developed by Chinese developers. In this talk, we will first discuss the opportunities and challenges of storage, using the hot topic of AIGC as a background. Next, we will introduce the architecture and development of Cubefs, showcasing its specific practices as an intelligent data lake base in AI scenarios to accelerate AI processing. Finally, we will explore and discuss the future plans of CubeFS together.

@@ -1,0 +1,6 @@
+SIG-Scheduling 介绍与深入探讨 | SIG-Scheduling Intro & Deep Dive - Qingcan Wang, Shopee & Kante Yin, DaoCloud
+
+https://kccncosschn2023.sched.com/event/1PTKH/sig-scheduling-tao-cheng-sig-scheduling-intro-deep-dive-qingcan-wang-shopee-kante-yin-daocloud
+
+Kube-scheduler是Kubernetes的一个关键组件，负责将Pod放置在最合适的节点上。但它是如何工作的？我们能否定制它以实现高级用途？大规模集群中的最佳实践是什么？为了回答这些渐进式的问题，我们将把这个会议分为两个部分。如果你是kube-scheduler的新手，你可能对介绍部分感兴趣；如果你是资深人员，你可以参加我们的深入探讨。 此外，我们还将与您分享SIG内的一些正在进行的工作，包括子项目的最新进展。 
+Kube-scheduler is a critical component to Kubernetes, responsible for placing the pod to the most suitable node. But how it works, can we customize it for advanced usage, what’s the best practice in large clusters. To answer these progressive questions, we’ll divide this session into two parts. If you’re a newbie to kube-scheduler, you may interest with the Intro part, if you’re a senior one, you can join our Deep Dive. What’s more, we’ll share with you some ongoing works within the SIG, including the latest progress with the sub-projects.

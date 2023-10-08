@@ -1,0 +1,6 @@
+赞助主论坛演讲: 云原生AI助力大模型生产普惠提效 | Sponsored Keynote: Cloud Native AI Boosts Efficiency and Benefits of Large-scale Model Production - Li Yi (Mark), Director of Container Service, Alibaba Cloud
+
+https://kccncosschn2023.sched.com/event/1RT44/leng-mo-3hxi-chang-ai-nfchang-sponsored-keynote-cloud-native-ai-boosts-efficiency-and-benefits-of-large-scale-model-production-li-yi-mark-director-of-container-service-alibaba-cloud
+
+在大模型时代，云原生全栈技术将助力AI基础设施建设，大幅提升AI资源效率、工程效率，降低生产成本。本话题针对LLM/AIGC服务面临的诸多挑战，介绍阿里云云原生AI技术在资源弹性、任务编排调度、MLOps流水线、数据管理、训练和推理加速等领域的核心能力。同时，也将介绍阿里云在云原生AI领域的开源贡献和规划。 
+In the era of large-scale models, cloud-native full-stack technology will help AI infrastructure construction, greatly improve AI resource efficiency, engineering productivity, and reduce production costs. This topic focuses on the many challenges faced by LLM/AIGC services, and introduces the core capabilities of Alibaba Cloud's cloud-native AI technology in the fields of resource elasticity, task scheduling, MLOps pipeline, data management, training, and inference acceleration. At the same time, I will also introduce Alibaba Cloud's open source contributions and plans in the field of cloud-native AI.

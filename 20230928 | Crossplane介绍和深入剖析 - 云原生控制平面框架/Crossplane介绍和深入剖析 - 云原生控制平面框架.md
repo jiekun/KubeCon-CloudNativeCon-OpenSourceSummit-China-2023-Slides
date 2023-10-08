@@ -1,0 +1,6 @@
+Crossplane介绍和深入剖析 - 云原生控制平面框架 | Crossplane Intro and Deep Dive - The Cloud Native Control Plane Framework - Ying Mo, IBM
+
+https://kccncosschn2023.sched.com/event/1PTKl/crossplanetao-re-chang-xiao-crossplane-intro-and-deep-dive-the-cloud-native-control-plane-framework-ying-mo-ibm
+
+Crossplane的维护者，一个CNCF孵化项目，将主持这个会议，向新的参与者介绍该项目，并深入探讨Crossplane的功能和路线图的细节。我们将解释Crossplane如何使您能够将云基础设施和服务组合成自定义平台API，并介绍如何最好地开始构建自己的平台。 我们将介绍最新版本中包含的关键功能，以及它们解决的问题和使用案例，以及如何将它们应用到您的控制平面中。最后，将有一个互动机会与维护者交流，提问，并影响项目未来的方向。 
+The maintainers of Crossplane, a CNCF Incubating project, will lead this session that will introduce the project to new attendees, as well as dive into the finer details of Crossplane’s functionality and roadmap. We will explain how Crossplane enables you to compose cloud infrastructure and services into your custom platform APIs, and how best to get started building a platform of your own. We will take a tour through the key features included in the latest releases, what problems and use cases they are solving, and how you can adopt them into your control planes. Finally, there will be an interactive opportunity to engage with the maintainers, ask questions, and influence the future of the project direction.

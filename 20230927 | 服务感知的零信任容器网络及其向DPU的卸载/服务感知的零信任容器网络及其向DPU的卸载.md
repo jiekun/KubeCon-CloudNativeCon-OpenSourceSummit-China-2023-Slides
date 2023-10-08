@@ -1,0 +1,6 @@
+服务感知的零信任容器网络及其向DPU的卸载 | Service Aware Zero Trust Container Network and Its Offloading to DPU - Arthur Xiang, Digitalchina
+
+https://kccncosschn2023.sched.com/event/1PTIF/ju-zha-xi-jjie-zhang-dpuzha-zhe-service-aware-zero-trust-container-network-and-its-offloading-to-dpu-arthur-xiang-digitalchina
+
+在云原生环境中，所有微服务都保持在一个扁平网络中，这带来了重大的安全问题。基于服务加密的零信任被认为是解决这个问题的主要方案。目前的边车 envoy mTLS 或 OVN IPsec 解决方案要么消耗大量的 CPU 计算，需要进行 POD 注入，要么无法提供服务可见性。通过将 mTLS、透明 IPsec 和 OVS 卸载到 DPU 上，并重新设计工作流程以避免 DPU 的限制，我们实现了一个零注入和服务感知的零信任容器网络，具有线速性能。还提出了对开源 OVS 进行修改，以满足服务感知的零信任要求。 
+In cloud native environment, all micro services stay in a flat network which impose a significant security concern. Service encryption based zero trust is considered as a primary solution to this problem. Current sidecar envoy mTLS or OVN IPsec solution either consumes lots of CPU computation, needs POD injection or can not provide service visibility. By offloading mTLS, transparent IPsec and OVS on DPU and redesign the working flow to avoid the limitation of DPU, we implement a zero injection and service-aware zero trust container network with line rate performance. Modification on open source OVS to meet the service aware zero trust requirement is also proposed.

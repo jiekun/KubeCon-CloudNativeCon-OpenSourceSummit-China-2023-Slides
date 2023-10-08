@@ -1,0 +1,6 @@
+Kubernetes 数据保护工作组深入探讨 | Kubernetes Data Protection WG Deep Dive - Xiangqian Yu, Google
+
+https://kccncosschn2023.sched.com/event/1PTK5/kubernetes-yuan-cheng-kubernetes-data-protection-wg-deep-dive-xiangqian-yu-google
+
+数据保护工作组致力于推动Kubernetes中的数据保护支持。该工作组正在努力确定缺失的功能，并与多个SIG合作设计功能，以实现Kubernetes中的数据保护。在本次会议中，该工作组的联合主席将讨论Kubernetes中数据保护的当前状态以及未来的发展方向。他们还将讨论有兴趣的各方（包括存储和备份供应商、云提供商、应用程序开发人员和终端用户等）如何加入该工作组并为此努力做出贡献。有关该工作组的详细信息可以在此处找到：https://github.com/kubernetes/community/tree/master/wg-data-protection。 
+Data Protection WG is dedicated to promoting data protection support in Kubernetes. The Working Group is working on identifying missing functionalities and collaborating across multiple SIGs to design features to enable data protection in Kubernetes. In this session, the co-chairs of this WG will discuss what is the current state of data protection in Kubernetes and where it is heading in the future. They will also talk about how interested parties (including storage and backup vendors, cloud providers, application developers, and end users, etc.) can join this WG and contribute to this effort. Details of the WG can be found here: https://github.com/kubernetes/community/tree/master/wg-data-protection.

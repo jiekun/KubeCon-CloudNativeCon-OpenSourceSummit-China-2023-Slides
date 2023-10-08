@@ -1,0 +1,9 @@
+开发、构建并部署使用WebAssembly的轻量级人工智能服务 | Develop, Build & Deploy Lightweight AI Services with WebAssembly - Kinfey Lo, Microsoft; Vivian Hu, Second State; Jianbai Ye
+
+https://kccncosschn2023.sched.com/event/1R598/zhu-ya-zhi-webassemblyzha-si-hao-wa-xia-develop-build-deploy-lightweight-ai-services-with-webassembly-kinfey-lo-microsoft-vivian-hu-second-state-jianbai-ye
+
+预计推理将占据超过90％的人工智能工作负载计算资源。随着大语言模型的出现，资源消耗加剧，许多公司正努力满足客户的推理需求。 传统的人工智能推理应用程序通常使用Python编写，然后在容器或虚拟机中进行封装以进行云部署。这些应用程序庞大（超过10GB），并且由于基于Python的数据处理而速度较慢。 WebAssembly（Wasm）已经成为人工智能推理工作负载的一种强大的替代运行时。开发人员使用Rust / JS / Python编写推理函数，然后在Wasm沙箱中运行这些函数。Wasm函数轻巧、快速、适用于云环境，并且可以由容器工具进行管理。 在这个实践教程中，我们将介绍基于Wasm的人工智能服务的基础知识和架构。参与者将学习如何创建PyTorch和TensorFlow推理函数，以及如何在Rust中扩展大语言模型（如ChatGPT）。我们还将讨论如何使用诸如K8s之类的工具部署人工智能推理函数。 
+It is estimated that inference consumes over 90% of computing resources for AI workloads. The heavy resource consumption is exacerbated with LLMs, as we see companies struggle to meet customers’ inference demands. 
+Traditional AI inference apps are written in Python and then wrapped in a container or VM for cloud deployment. Those apps are heavyweight (10GB+) and slow with Python-based data processing. 
+Wasm has emerged as a strong alternative runtime for AI inference workloads. Developers write inference functions in Rust / JS / Python and then run them in Wasm sandboxes. Wasm functions are lightweight, fast, safe for the cloud, and can be managed by container tools. 
+In this hands-on tutorial, we will go over the basics and architecture of Wasm-based AI services. Participants will learn how to create Pytorch and TF inference functions and extensions to LLMs like ChatGPT in Rust. We will also discuss how to deploy AI inference functions with tools like K8s.

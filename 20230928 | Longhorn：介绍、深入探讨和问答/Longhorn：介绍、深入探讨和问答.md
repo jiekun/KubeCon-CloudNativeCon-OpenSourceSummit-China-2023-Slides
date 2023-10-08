@@ -1,0 +1,6 @@
+Longhorn：介绍、深入探讨和问答 | Longhorn: Intro, Deep Dive and Q+A - David Ko & Shuo Wu, SUSE
+
+https://kccncosschn2023.sched.com/event/1PTJh/longhorndaeptao-cheng-rexie-di-longhorn-intro-deep-dive-and-qa-david-ko-shuo-wu-suse
+
+Longhorn是一个基于Kubernetes构建的云原生分布式块存储解决方案，用于在Kubernetes上运行。Longhorn旨在提供一种支持各种存储接口（包括块、文件系统和即将推出的对象网关）的主观解决方案。它设计有数据和操作服务，易于使用，并可在任何地方运行。在本次演讲中，我们将介绍Longhorn，讨论当前状态，介绍最新发布的突出项目，如新的v2数据引擎，分享技术设计和架构，未来路线图，并与观众进行深入讨论。Longhorn于2021年11月被云原生计算基金会接受为孵化项目。 
+Longhorn is a cloud-native distributed block storage solution built on Kubernetes and runs for Kubernetes. Longhorn is to provide an opinionated solution for supporting various storage interfaces including block, file system, and upcoming object gateway. It is designed with data and operation services, is easy to use, and runs anywhere. In this talk, we will introduce Longhorn, talk about the current status, present the outstanding items of the recent release like the new v2 data engine, share the technical design and architecture, the future roadmap, and have a deep-dive discussion with the audience. Longhorn was accepted as an incubating project by the Cloud Native Computing Foundation in November 2021.

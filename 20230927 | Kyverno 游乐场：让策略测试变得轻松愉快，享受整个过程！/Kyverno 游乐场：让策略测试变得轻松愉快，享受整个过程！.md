@@ -1,0 +1,6 @@
+Kyverno 游乐场：让策略测试变得轻松愉快，享受整个过程！ | Kyverno Playground: Make Policy Testing a Breeze and Enjoy the Process! - Shuting Zhao, Nirmata
+
+https://kccncosschn2023.sched.com/event/1PTKZ/kyverno-pencedaepmatsu-ji-ru-mao-si-daelshui-xiao-daeg-kyverno-playground-make-policy-testing-a-breeze-and-enjoy-the-process-shuting-zhao-nirmata
+
+Kyverno是专为Kubernetes设计的策略引擎，通过准入控制或CI/CD流水线实现策略的无缝管理。为了简化和简化Kyverno的测试过程，Kyverno团队开发了一个名为Kyverno Playground的隔离测试环境。 在本次会议中，舒婷将指导您从零开始创建Kyverno策略。她将演示如何使用Kyverno Playground将这些策略应用于不同的资源类型和配置。通过本次会议，您将获得轻松构建和测试Kyverno策略的知识和技能，而无需Kubernetes集群。 
+Kyverno is a policy engine designed specifically for Kubernetes, allowing for the seamless management of policies through admission control or CI/CD pipelines. To streamline and simplify the testing process for Kyverno, the Kyverno team has developed an isolated test environment called Kyverno Playground. In this session, Shuting will guide you through the process of creating Kyverno policies from scratch. She will demonstrate how to apply these policies to different resource types and configurations using the Kyverno Playground. By the end of the session, you will have gained the knowledge and skills to effortlessly build and test Kyverno policies, all without the need for a Kubernetes cluster.

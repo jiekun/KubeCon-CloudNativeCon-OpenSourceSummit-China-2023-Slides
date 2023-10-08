@@ -1,0 +1,6 @@
+多云多集群HPA帮助携程集团应对业务低迷和快速恢复 | Multi-Cloud Multi-Cluster HPA Helps Trip.com Group Deal with Business Downturn and Rapid Recovery - Honghui Yue & Jingxue Li, Trip.com
+
+https://kccncosschn2023.sched.com/event/1PTJG/zhong-shi-hpa-xiao-zhong-te-mao-refu-multi-cloud-multi-cluster-hpa-helps-tripcom-group-deal-with-business-downturn-and-rapid-recovery-honghui-yue-jingxue-li-tripcom
+
+随着携程集团旅行业务的快速恢复和发展，k8s集群的规模进一步扩大。为了提高效率和可用性，携程集团建立了新一代的多云多集群弹性平台。如何应对业务不确定性和快速增长？如何提高弹性平台的可用性和稳定性？如何降低成本？如何提高效率并减轻员工负担？这些都是携程集团面临的挑战。 在会议上，我们将介绍携程集团弹性平台的实际经验，特别是关于多集群水平Pod自动缩放。您可以了解到关于自动缩放、调度、效率和可用性的知识和启示。 
+With the rapid recovery and development of Trip.com Group's travel business, the scale of k8s cluster has further expanded. To improve efficiency and availability, Trip.com Group has built a new generation of multi-cloud multi-cluster elastic platform. How to deal with business uncertainty and rapid increase? How to improve elastic platform availability and stability? How to reduce cost? How to raise efficiency and lighten staff's burden? These are Trip.com Group's challenges. In the meeting, we will introduce you to Trip.com Group's practical experiences of elastic platform especially about multi-cluster horizontal pod autoscaling. You can gain knowledge and inspiration about autoscaling, scheduling, efficiency and availability.
