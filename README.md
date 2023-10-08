@@ -4,7 +4,7 @@
 
 Home: [KubeCon + CloudNativeCon + OpenSourceSummit China 2023](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/)
 
-这个文件夹中的所有文件都来自于 https://kccncosschn2023.sched.com/,由KubeCon +
+这个文件夹中的所有文件都来自于 [https://kccncosschn2023.sched.com/](https://kccncosschn2023.sched.com/),由KubeCon +
 CloudNativeCon + OpenSourceSummit China 2023 的演讲者上传。它们归属于 Linux
 Foundation、云原生计算基金会和LF Asia, LLC,以及原演讲者。传播和使用这些文件需要遵循知
 识共享许可和演讲者的要求。
